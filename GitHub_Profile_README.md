@@ -4,7 +4,7 @@
 
 I spent ten years working at the intersection of data and business growth, mostly without the analyst title. KPI frameworks, performance dashboards, customer segmentation, behavioural analysis, market sizing, campaign attribution: that was the job, across FinTech, ad-tech, and consumer businesses in East Africa and the UK. A 69% sales increase, a 36% footfall lift, a $12,000 proof-of-concept with Safaricom: all of it built on asking the right questions of the data before querying it.
 
-I am now formalising that work as a dedicated data analyst, holding the Google Data Analytics Professional Certificate (Coursera, 2026) and building daily in SQL, Tableau, and Python.
+I am now formalising that work as a dedicated data analyst, holding the Google Data Analytics Professional Certificate and building daily in SQL, Tableau, and Python.
 
 ---
 
@@ -18,7 +18,7 @@ Did-not-attend rates across NHS England GP appointments, July 2022 to December 2
 ### [iFood Customer & Campaign Analysis](https://github.com/ngatho1/iFood-Campaign-Analysis)
 Analysed 2,240 customers across 29 variables to identify which segments responded to marketing campaigns and why. Key finding: the 40-49 age group is the largest segment but converts at less than half the rate of younger cohorts, which points to a targeting problem, not a product problem.
 
-**Tools:** SQL (SQLite), Excel, Tableau
+**Tools:** SQL, Excel, Tableau, Power BI
 
 ---
 
