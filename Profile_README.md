@@ -45,4 +45,4 @@ Analysed 2,240 customers across 29 variables to identify which segments responde
 
 ## Contact
 
-[linkedin.com/in/davidnkamande](https://linkedin.com/in/davidnkamande) | ngatho.kamande@gmail.com
+[linkedin.com/in/davidnkamande](https://linkedin.com/in/davidnkamande) | ngatho.kamande@gmail.com  |  https://public.tableau.com/views/iFoodCustomerCampaignAnalysis-DavidKamande/ChannelPreferencebyFamilyType?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
