@@ -36,7 +36,7 @@ Analysed 2,240 customers across 29 variables to identify which segments responde
 
 ## Background
 
-**Google Data Analytics Professional Certificate** — Coursera / Google (2026)  
+**Google Data Analytics Professional Certificate** — Coursera / Google  
 **BA Communications** — Daystar University
 
 10+ years across FinTech (FinAccess, Nairobi), ad-tech (Adanian Labs), events, and social care operations. Most of that work was data work. I am now doing it under the right title.
